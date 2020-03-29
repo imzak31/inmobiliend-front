@@ -1,0 +1,12 @@
+.homepage {
+  .header {
+
+    @media (min-width: 992px) {
+      .btn {
+        position: absolute;
+        top: 0;
+        right: 1rem;
+      }
+    }
+  }
+}
